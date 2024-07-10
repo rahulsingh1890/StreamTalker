@@ -1,4 +1,4 @@
-MS-Teams-Website
+StreamTalker-Website
 ----------------------------------------------------
 ----------------------------------------------------
 A **Web-App** which provides you facilities like Video-Calling and group chatting
