@@ -11,7 +11,7 @@ A **Web-App** which provides you facilities like Video-Calling and group chattin
 ## **Visit Website** - https://rahulsingh1890.github.io/StreamTalker/Stream%20Talker-Website
 
 ## First Look
-![image](https://user-images.githubusercontent.com/69220037/124892175-4572ce00-dff7-11eb-82fb-b3a602bd1f98.pn)
+![image](https://user-images.githubusercontent.com/69220037/124892175-4572ce00-dff7-11eb-82fb-b3a602bd1f98.png)
 
 ## How to access the services we provide??
 ### Visit services section
